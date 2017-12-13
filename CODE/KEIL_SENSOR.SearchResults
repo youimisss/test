@@ -1,0 +1,4 @@
+---- CANID Matches (3 in 2 files) ----
+CAN.c (c):    TxMessage.StdId= CANID;           // 标准标识符 
+CAN.c (c):    TxMessage.ExtId= CANID;           // 设置扩展标示符 
+CAN.h (c):#define CANID		0x2410
